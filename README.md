@@ -51,6 +51,8 @@ workforce demographics across departments.
 
 ##  Dashboard Preview
 ![HR Dashboard](dashboard_screenshot.png)
+### R&D Department View
+![RD Dashboard](dashboard_screenshot2.png)
 
 ##  About Me
 I am a fresher Data Analyst skilled in Power BI, SQL, and Python,
