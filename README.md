@@ -25,6 +25,12 @@ workforce demographics across departments.
 -  Attrition by Job Role
 -  Department-wise filters (HR, R&D, Sales)
 
+ ##  Dashboard Pages
+| Page | Description |
+|------|-------------|
+| Overview | All departments combined (1,416 employees) |
+| R&D View | R&D filtered view (920 employees) |
+
 ##  Key Insights
 -  **Highest attrition** in age group **26-35** (111 employees)
 -  **Low salary employees (Upto 5K)** have highest attrition — 158 employees
